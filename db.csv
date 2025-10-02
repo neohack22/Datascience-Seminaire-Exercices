@@ -1,0 +1,21 @@
+Occupation,Category,All_weekly,M_weekly,F_weekly
+Ingénieur,Technique,200,120,80
+Médecin,Santé,180,100,80
+Enseignant,Éducation,170,60,110
+Comptable,Finance,150,80,70
+Développeur,Technique,220,150,70
+Infirmier,Santé,130,40,90
+Commercial,Commerce,140,90,50
+Chef de projet,Management,160,90,70
+Caissier,Commerce,120,40,80
+Technicien,Technique,140,90,50
+Chercheur,Éducation,155,75,80
+Pharmacien,Santé,160,70,90
+Gestionnaire,Management,150,80,70
+Vendeur,Commerce,100,60,40
+Consultant,Finance,110,60,50
+Professeur,Éducation,180,80,100
+Analyste,Finance,135,80,55
+Architecte,Technique,200,120,80
+Juriste,Finance,110,50,60
+Secrétaire,Management,120,30,90
